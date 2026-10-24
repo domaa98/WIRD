@@ -1,0 +1,90 @@
+{
+  "number": 94,
+  "name": "سُورَةُ الشَّرۡحِ",
+  "englishName": "Ash-Sharh",
+  "englishNameTranslation": "The Consolation",
+  "numberOfAyahs": 8,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6091,
+      "surah": 94,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6092,
+      "surah": 94,
+      "verseNumber": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6093,
+      "surah": 94,
+      "verseNumber": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6094,
+      "surah": 94,
+      "verseNumber": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6095,
+      "surah": 94,
+      "verseNumber": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6096,
+      "surah": 94,
+      "verseNumber": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6097,
+      "surah": 94,
+      "verseNumber": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6098,
+      "surah": 94,
+      "verseNumber": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 1,
+  "name": "سُورَةُ ٱلْفَاتِحَةِ",
+  "englishName": "Al-Faatiha",
+  "englishNameTranslation": "The Opening",
+  "numberOfAyahs": 7,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 1,
+      "surah": 1,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 2,
+      "surah": 1,
+      "verseNumber": 2,
+      "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 3,
+      "surah": 1,
+      "verseNumber": 3,
+      "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 4,
+      "surah": 1,
+      "verseNumber": 4,
+      "text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 5,
+      "surah": 1,
+      "verseNumber": 5,
+      "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 6,
+      "surah": 1,
+      "verseNumber": 6,
+      "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "id": 7,
+      "surah": 1,
+      "verseNumber": 7,
+      "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "page": 1,
+      "juz": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  ]
+}

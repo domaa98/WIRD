@@ -1,0 +1,530 @@
+{
+  "number": 69,
+  "name": "سُورَةُ الحَاقَّةِ",
+  "englishName": "Al-Haaqqa",
+  "englishNameTranslation": "The Reality",
+  "numberOfAyahs": 52,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 5324,
+      "surah": 69,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَآقَّةُ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5325,
+      "surah": 69,
+      "verseNumber": 2,
+      "text": "مَا ٱلْحَآقَّةُ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5326,
+      "surah": 69,
+      "verseNumber": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5327,
+      "surah": 69,
+      "verseNumber": 4,
+      "text": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5328,
+      "surah": 69,
+      "verseNumber": 5,
+      "text": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5329,
+      "surah": 69,
+      "verseNumber": 6,
+      "text": "وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5330,
+      "surah": 69,
+      "verseNumber": 7,
+      "text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5331,
+      "surah": 69,
+      "verseNumber": 8,
+      "text": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍۢ",
+      "page": 566,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5332,
+      "surah": 69,
+      "verseNumber": 9,
+      "text": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَٰتُ بِٱلْخَاطِئَةِ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5333,
+      "surah": 69,
+      "verseNumber": 10,
+      "text": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةًۭ رَّابِيَةً",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5334,
+      "surah": 69,
+      "verseNumber": 11,
+      "text": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5335,
+      "surah": 69,
+      "verseNumber": 12,
+      "text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ أُذُنٌۭ وَٰعِيَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5336,
+      "surah": 69,
+      "verseNumber": 13,
+      "text": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌۭ وَٰحِدَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5337,
+      "surah": 69,
+      "verseNumber": 14,
+      "text": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةًۭ وَٰحِدَةًۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5338,
+      "surah": 69,
+      "verseNumber": 15,
+      "text": "فَيَوْمَئِذٍۢ وَقَعَتِ ٱلْوَاقِعَةُ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5339,
+      "surah": 69,
+      "verseNumber": 16,
+      "text": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍۢ وَاهِيَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5340,
+      "surah": 69,
+      "verseNumber": 17,
+      "text": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍۢ ثَمَٰنِيَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5341,
+      "surah": 69,
+      "verseNumber": 18,
+      "text": "يَوْمَئِذٍۢ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5342,
+      "surah": 69,
+      "verseNumber": 19,
+      "text": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5343,
+      "surah": 69,
+      "verseNumber": 20,
+      "text": "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5344,
+      "surah": 69,
+      "verseNumber": 21,
+      "text": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5345,
+      "surah": 69,
+      "verseNumber": 22,
+      "text": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5346,
+      "surah": 69,
+      "verseNumber": 23,
+      "text": "قُطُوفُهَا دَانِيَةٌۭ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5347,
+      "surah": 69,
+      "verseNumber": 24,
+      "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5348,
+      "surah": 69,
+      "verseNumber": 25,
+      "text": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5349,
+      "surah": 69,
+      "verseNumber": 26,
+      "text": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5350,
+      "surah": 69,
+      "verseNumber": 27,
+      "text": "يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5351,
+      "surah": 69,
+      "verseNumber": 28,
+      "text": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5352,
+      "surah": 69,
+      "verseNumber": 29,
+      "text": "هَلَكَ عَنِّى سُلْطَٰنِيَهْ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5353,
+      "surah": 69,
+      "verseNumber": 30,
+      "text": "خُذُوهُ فَغُلُّوهُ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5354,
+      "surah": 69,
+      "verseNumber": 31,
+      "text": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5355,
+      "surah": 69,
+      "verseNumber": 32,
+      "text": "ثُمَّ فِى سِلْسِلَةٍۢ ذَرْعُهَا سَبْعُونَ ذِرَاعًۭا فَٱسْلُكُوهُ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5356,
+      "surah": 69,
+      "verseNumber": 33,
+      "text": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5357,
+      "surah": 69,
+      "verseNumber": 34,
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "page": 567,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5358,
+      "surah": 69,
+      "verseNumber": 35,
+      "text": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَٰهُنَا حَمِيمٌۭ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5359,
+      "surah": 69,
+      "verseNumber": 36,
+      "text": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5360,
+      "surah": 69,
+      "verseNumber": 37,
+      "text": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5361,
+      "surah": 69,
+      "verseNumber": 38,
+      "text": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5362,
+      "surah": 69,
+      "verseNumber": 39,
+      "text": "وَمَا لَا تُبْصِرُونَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5363,
+      "surah": 69,
+      "verseNumber": 40,
+      "text": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5364,
+      "surah": 69,
+      "verseNumber": 41,
+      "text": "وَمَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5365,
+      "surah": 69,
+      "verseNumber": 42,
+      "text": "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5366,
+      "surah": 69,
+      "verseNumber": 43,
+      "text": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5367,
+      "surah": 69,
+      "verseNumber": 44,
+      "text": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5368,
+      "surah": 69,
+      "verseNumber": 45,
+      "text": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5369,
+      "surah": 69,
+      "verseNumber": 46,
+      "text": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5370,
+      "surah": 69,
+      "verseNumber": 47,
+      "text": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5371,
+      "surah": 69,
+      "verseNumber": 48,
+      "text": "وَإِنَّهُۥ لَتَذْكِرَةٌۭ لِّلْمُتَّقِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5372,
+      "surah": 69,
+      "verseNumber": 49,
+      "text": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5373,
+      "surah": 69,
+      "verseNumber": 50,
+      "text": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَٰفِرِينَ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5374,
+      "surah": 69,
+      "verseNumber": 51,
+      "text": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    },
+    {
+      "id": 5375,
+      "surah": 69,
+      "verseNumber": 52,
+      "text": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "page": 568,
+      "juz": 29,
+      "hizbQuarter": 227,
+      "sajda": false
+    }
+  ]
+}

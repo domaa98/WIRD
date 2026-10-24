@@ -1,0 +1,270 @@
+{
+  "number": 88,
+  "name": "سُورَةُ الغَاشِيَةِ",
+  "englishName": "Al-Ghaashiya",
+  "englishNameTranslation": "The Overwhelming",
+  "numberOfAyahs": 26,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 5968,
+      "surah": 88,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5969,
+      "surah": 88,
+      "verseNumber": 2,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5970,
+      "surah": 88,
+      "verseNumber": 3,
+      "text": "عَامِلَةٌۭ نَّاصِبَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5971,
+      "surah": 88,
+      "verseNumber": 4,
+      "text": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5972,
+      "surah": 88,
+      "verseNumber": 5,
+      "text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5973,
+      "surah": 88,
+      "verseNumber": 6,
+      "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5974,
+      "surah": 88,
+      "verseNumber": 7,
+      "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5975,
+      "surah": 88,
+      "verseNumber": 8,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5976,
+      "surah": 88,
+      "verseNumber": 9,
+      "text": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5977,
+      "surah": 88,
+      "verseNumber": 10,
+      "text": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5978,
+      "surah": 88,
+      "verseNumber": 11,
+      "text": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5979,
+      "surah": 88,
+      "verseNumber": 12,
+      "text": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5980,
+      "surah": 88,
+      "verseNumber": 13,
+      "text": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5981,
+      "surah": 88,
+      "verseNumber": 14,
+      "text": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5982,
+      "surah": 88,
+      "verseNumber": 15,
+      "text": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5983,
+      "surah": 88,
+      "verseNumber": 16,
+      "text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5984,
+      "surah": 88,
+      "verseNumber": 17,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5985,
+      "surah": 88,
+      "verseNumber": 18,
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5986,
+      "surah": 88,
+      "verseNumber": 19,
+      "text": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5987,
+      "surah": 88,
+      "verseNumber": 20,
+      "text": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5988,
+      "surah": 88,
+      "verseNumber": 21,
+      "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5989,
+      "surah": 88,
+      "verseNumber": 22,
+      "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5990,
+      "surah": 88,
+      "verseNumber": 23,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5991,
+      "surah": 88,
+      "verseNumber": 24,
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5992,
+      "surah": 88,
+      "verseNumber": 25,
+      "text": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "id": 5993,
+      "surah": 88,
+      "verseNumber": 26,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "page": 592,
+      "juz": 30,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ]
+}

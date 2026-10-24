@@ -1,0 +1,90 @@
+{
+  "number": 102,
+  "name": "سُورَةُ التَّكَاثُرِ",
+  "englishName": "At-Takaathur",
+  "englishNameTranslation": "Competition",
+  "numberOfAyahs": 8,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6169,
+      "surah": 102,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6170,
+      "surah": 102,
+      "verseNumber": 2,
+      "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6171,
+      "surah": 102,
+      "verseNumber": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6172,
+      "surah": 102,
+      "verseNumber": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6173,
+      "surah": 102,
+      "verseNumber": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6174,
+      "surah": 102,
+      "verseNumber": 6,
+      "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6175,
+      "surah": 102,
+      "verseNumber": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6176,
+      "surah": 102,
+      "verseNumber": 8,
+      "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "number": 101,
+  "name": "سُورَةُ القَارِعَةِ",
+  "englishName": "Al-Qaari'a",
+  "englishNameTranslation": "The Calamity",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6158,
+      "surah": 101,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6159,
+      "surah": 101,
+      "verseNumber": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6160,
+      "surah": 101,
+      "verseNumber": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6161,
+      "surah": 101,
+      "verseNumber": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6162,
+      "surah": 101,
+      "verseNumber": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6163,
+      "surah": 101,
+      "verseNumber": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6164,
+      "surah": 101,
+      "verseNumber": 7,
+      "text": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6165,
+      "surah": 101,
+      "verseNumber": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6166,
+      "surah": 101,
+      "verseNumber": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6167,
+      "surah": 101,
+      "verseNumber": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6168,
+      "surah": 101,
+      "verseNumber": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

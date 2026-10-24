@@ -1,0 +1,40 @@
+{
+  "number": 108,
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "englishName": "Al-Kawthar",
+  "englishNameTranslation": "Abundance",
+  "numberOfAyahs": 3,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6205,
+      "surah": 108,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "page": 602,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6206,
+      "surah": 108,
+      "verseNumber": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "page": 602,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6207,
+      "surah": 108,
+      "verseNumber": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "page": 602,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

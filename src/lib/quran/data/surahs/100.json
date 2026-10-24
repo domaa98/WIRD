@@ -1,0 +1,120 @@
+{
+  "number": 100,
+  "name": "سُورَةُ العَادِيَاتِ",
+  "englishName": "Al-Aadiyaat",
+  "englishNameTranslation": "The Chargers",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6147,
+      "surah": 100,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6148,
+      "surah": 100,
+      "verseNumber": 2,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6149,
+      "surah": 100,
+      "verseNumber": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6150,
+      "surah": 100,
+      "verseNumber": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6151,
+      "surah": 100,
+      "verseNumber": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6152,
+      "surah": 100,
+      "verseNumber": 6,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6153,
+      "surah": 100,
+      "verseNumber": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6154,
+      "surah": 100,
+      "verseNumber": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6155,
+      "surah": 100,
+      "verseNumber": 9,
+      "text": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "page": 599,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6156,
+      "surah": 100,
+      "verseNumber": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6157,
+      "surah": 100,
+      "verseNumber": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+      "page": 600,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

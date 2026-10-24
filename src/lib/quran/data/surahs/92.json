@@ -1,0 +1,220 @@
+{
+  "number": 92,
+  "name": "سُورَةُ اللَّيۡلِ",
+  "englishName": "Al-Lail",
+  "englishNameTranslation": "The Night",
+  "numberOfAyahs": 21,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6059,
+      "surah": 92,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6060,
+      "surah": 92,
+      "verseNumber": 2,
+      "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6061,
+      "surah": 92,
+      "verseNumber": 3,
+      "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6062,
+      "surah": 92,
+      "verseNumber": 4,
+      "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6063,
+      "surah": 92,
+      "verseNumber": 5,
+      "text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6064,
+      "surah": 92,
+      "verseNumber": 6,
+      "text": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6065,
+      "surah": 92,
+      "verseNumber": 7,
+      "text": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6066,
+      "surah": 92,
+      "verseNumber": 8,
+      "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6067,
+      "surah": 92,
+      "verseNumber": 9,
+      "text": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6068,
+      "surah": 92,
+      "verseNumber": 10,
+      "text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6069,
+      "surah": 92,
+      "verseNumber": 11,
+      "text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6070,
+      "surah": 92,
+      "verseNumber": 12,
+      "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6071,
+      "surah": 92,
+      "verseNumber": 13,
+      "text": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6072,
+      "surah": 92,
+      "verseNumber": 14,
+      "text": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ",
+      "page": 595,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6073,
+      "surah": 92,
+      "verseNumber": 15,
+      "text": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6074,
+      "surah": 92,
+      "verseNumber": 16,
+      "text": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6075,
+      "surah": 92,
+      "verseNumber": 17,
+      "text": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6076,
+      "surah": 92,
+      "verseNumber": 18,
+      "text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6077,
+      "surah": 92,
+      "verseNumber": 19,
+      "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6078,
+      "surah": 92,
+      "verseNumber": 20,
+      "text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6079,
+      "surah": 92,
+      "verseNumber": 21,
+      "text": "وَلَسَوْفَ يَرْضَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+}

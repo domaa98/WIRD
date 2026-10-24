@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #176B50;
+  --color-primary-hover: #135842;
+  --color-deep-green: #183C31;
+  --color-ivory: #F8F7F1;
+  --color-white: #FFFFFF;
+  --color-muted: #718078;
+  --color-border: #E4E8DF;
+  --color-gold: #B99A58;
+
+  --bg-main: #F8F7F1;
+  --bg-card: #FFFFFF;
+  --text-main: #183C31;
+  --text-muted: #62726B;
+  --border-main: #E4E8DF;
+  --card-shadow: 0 4px 20px -2px rgba(24, 60, 49, 0.05);
+
+  --font-ibm-arabic: 'IBM Plex Sans Arabic', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-amiri: 'Amiri', 'Traditional Arabic', 'Scheherazade New', serif;
+}
+
+.dark {
+  --bg-main: #0C1814;
+  --bg-card: #142822;
+  --text-main: #F2F5F3;
+  --text-muted: #95A79E;
+  --border-main: #1E3B32;
+  --card-shadow: 0 4px 24px -2px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-ibm-arabic);
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  direction: rtl;
+  text-align: right;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Quranic typography styling */
+.font-quran {
+  font-family: var(--font-amiri);
+  line-height: 2.2;
+  letter-spacing: 0.01em;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5CD;
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #23453B;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid #176B50;
+  outline-offset: 2px;
+}
+
+/* Quran Ayah End Marker */
+.ayah-symbol {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.35em;
+  color: #B99A58;
+  font-family: var(--font-amiri);
+  user-select: none;
+}

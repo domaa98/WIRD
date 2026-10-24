@@ -1,0 +1,410 @@
+{
+  "number": 75,
+  "name": "سُورَةُ القِيَامَةِ",
+  "englishName": "Al-Qiyaama",
+  "englishNameTranslation": "The Resurrection",
+  "numberOfAyahs": 40,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 5552,
+      "surah": 75,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5553,
+      "surah": 75,
+      "verseNumber": 2,
+      "text": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5554,
+      "surah": 75,
+      "verseNumber": 3,
+      "text": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5555,
+      "surah": 75,
+      "verseNumber": 4,
+      "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5556,
+      "surah": 75,
+      "verseNumber": 5,
+      "text": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5557,
+      "surah": 75,
+      "verseNumber": 6,
+      "text": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5558,
+      "surah": 75,
+      "verseNumber": 7,
+      "text": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5559,
+      "surah": 75,
+      "verseNumber": 8,
+      "text": "وَخَسَفَ ٱلْقَمَرُ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5560,
+      "surah": 75,
+      "verseNumber": 9,
+      "text": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5561,
+      "surah": 75,
+      "verseNumber": 10,
+      "text": "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5562,
+      "surah": 75,
+      "verseNumber": 11,
+      "text": "كَلَّا لَا وَزَرَ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5563,
+      "surah": 75,
+      "verseNumber": 12,
+      "text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5564,
+      "surah": 75,
+      "verseNumber": 13,
+      "text": "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5565,
+      "surah": 75,
+      "verseNumber": 14,
+      "text": "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5566,
+      "surah": 75,
+      "verseNumber": 15,
+      "text": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5567,
+      "surah": 75,
+      "verseNumber": 16,
+      "text": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5568,
+      "surah": 75,
+      "verseNumber": 17,
+      "text": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5569,
+      "surah": 75,
+      "verseNumber": 18,
+      "text": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5570,
+      "surah": 75,
+      "verseNumber": 19,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "page": 577,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5571,
+      "surah": 75,
+      "verseNumber": 20,
+      "text": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5572,
+      "surah": 75,
+      "verseNumber": 21,
+      "text": "وَتَذَرُونَ ٱلْءَاخِرَةَ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5573,
+      "surah": 75,
+      "verseNumber": 22,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5574,
+      "surah": 75,
+      "verseNumber": 23,
+      "text": "إِلَىٰ رَبِّهَا نَاظِرَةٌۭ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5575,
+      "surah": 75,
+      "verseNumber": 24,
+      "text": "وَوُجُوهٌۭ يَوْمَئِذٍۭ بَاسِرَةٌۭ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5576,
+      "surah": 75,
+      "verseNumber": 25,
+      "text": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5577,
+      "surah": 75,
+      "verseNumber": 26,
+      "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5578,
+      "surah": 75,
+      "verseNumber": 27,
+      "text": "وَقِيلَ مَنْ ۜ رَاقٍۢ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5579,
+      "surah": 75,
+      "verseNumber": 28,
+      "text": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5580,
+      "surah": 75,
+      "verseNumber": 29,
+      "text": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5581,
+      "surah": 75,
+      "verseNumber": 30,
+      "text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5582,
+      "surah": 75,
+      "verseNumber": 31,
+      "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5583,
+      "surah": 75,
+      "verseNumber": 32,
+      "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5584,
+      "surah": 75,
+      "verseNumber": 33,
+      "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5585,
+      "surah": 75,
+      "verseNumber": 34,
+      "text": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5586,
+      "surah": 75,
+      "verseNumber": 35,
+      "text": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5587,
+      "surah": 75,
+      "verseNumber": 36,
+      "text": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5588,
+      "surah": 75,
+      "verseNumber": 37,
+      "text": "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5589,
+      "surah": 75,
+      "verseNumber": 38,
+      "text": "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5590,
+      "surah": 75,
+      "verseNumber": 39,
+      "text": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    },
+    {
+      "id": 5591,
+      "surah": 75,
+      "verseNumber": 40,
+      "text": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ",
+      "page": 578,
+      "juz": 29,
+      "hizbQuarter": 231,
+      "sajda": false
+    }
+  ]
+}

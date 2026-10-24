@@ -1,0 +1,60 @@
+{
+  "number": 113,
+  "name": "سُورَةُ الفَلَقِ",
+  "englishName": "Al-Falaq",
+  "englishNameTranslation": "The Dawn",
+  "numberOfAyahs": 5,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6226,
+      "surah": 113,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "page": 604,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6227,
+      "surah": 113,
+      "verseNumber": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "page": 604,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6228,
+      "surah": 113,
+      "verseNumber": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "page": 604,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6229,
+      "surah": 113,
+      "verseNumber": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "page": 604,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6230,
+      "surah": 113,
+      "verseNumber": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "page": 604,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

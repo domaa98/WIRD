@@ -1,0 +1,430 @@
+{
+  "number": 80,
+  "name": "سُورَةُ عَبَسَ",
+  "englishName": "Abasa",
+  "englishNameTranslation": "He frowned",
+  "numberOfAyahs": 42,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 5759,
+      "surah": 80,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5760,
+      "surah": 80,
+      "verseNumber": 2,
+      "text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5761,
+      "surah": 80,
+      "verseNumber": 3,
+      "text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5762,
+      "surah": 80,
+      "verseNumber": 4,
+      "text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5763,
+      "surah": 80,
+      "verseNumber": 5,
+      "text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5764,
+      "surah": 80,
+      "verseNumber": 6,
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5765,
+      "surah": 80,
+      "verseNumber": 7,
+      "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5766,
+      "surah": 80,
+      "verseNumber": 8,
+      "text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5767,
+      "surah": 80,
+      "verseNumber": 9,
+      "text": "وَهُوَ يَخْشَىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5768,
+      "surah": 80,
+      "verseNumber": 10,
+      "text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5769,
+      "surah": 80,
+      "verseNumber": 11,
+      "text": "كَلَّآ إِنَّهَا تَذْكِرَةٌۭ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5770,
+      "surah": 80,
+      "verseNumber": 12,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5771,
+      "surah": 80,
+      "verseNumber": 13,
+      "text": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5772,
+      "surah": 80,
+      "verseNumber": 14,
+      "text": "مَّرْفُوعَةٍۢ مُّطَهَّرَةٍۭ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5773,
+      "surah": 80,
+      "verseNumber": 15,
+      "text": "بِأَيْدِى سَفَرَةٍۢ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5774,
+      "surah": 80,
+      "verseNumber": 16,
+      "text": "كِرَامٍۭ بَرَرَةٍۢ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5775,
+      "surah": 80,
+      "verseNumber": 17,
+      "text": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5776,
+      "surah": 80,
+      "verseNumber": 18,
+      "text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5777,
+      "surah": 80,
+      "verseNumber": 19,
+      "text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5778,
+      "surah": 80,
+      "verseNumber": 20,
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5779,
+      "surah": 80,
+      "verseNumber": 21,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5780,
+      "surah": 80,
+      "verseNumber": 22,
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5781,
+      "surah": 80,
+      "verseNumber": 23,
+      "text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5782,
+      "surah": 80,
+      "verseNumber": 24,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5783,
+      "surah": 80,
+      "verseNumber": 25,
+      "text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5784,
+      "surah": 80,
+      "verseNumber": 26,
+      "text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5785,
+      "surah": 80,
+      "verseNumber": 27,
+      "text": "فَأَنۢبَتْنَا فِيهَا حَبًّۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5786,
+      "surah": 80,
+      "verseNumber": 28,
+      "text": "وَعِنَبًۭا وَقَضْبًۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5787,
+      "surah": 80,
+      "verseNumber": 29,
+      "text": "وَزَيْتُونًۭا وَنَخْلًۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5788,
+      "surah": 80,
+      "verseNumber": 30,
+      "text": "وَحَدَآئِقَ غُلْبًۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5789,
+      "surah": 80,
+      "verseNumber": 31,
+      "text": "وَفَٰكِهَةًۭ وَأَبًّۭا",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5790,
+      "surah": 80,
+      "verseNumber": 32,
+      "text": "مَّتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5791,
+      "surah": 80,
+      "verseNumber": 33,
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5792,
+      "surah": 80,
+      "verseNumber": 34,
+      "text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5793,
+      "surah": 80,
+      "verseNumber": 35,
+      "text": "وَأُمِّهِۦ وَأَبِيهِ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5794,
+      "surah": 80,
+      "verseNumber": 36,
+      "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5795,
+      "surah": 80,
+      "verseNumber": 37,
+      "text": "لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5796,
+      "surah": 80,
+      "verseNumber": 38,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5797,
+      "surah": 80,
+      "verseNumber": 39,
+      "text": "ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5798,
+      "surah": 80,
+      "verseNumber": 40,
+      "text": "وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5799,
+      "surah": 80,
+      "verseNumber": 41,
+      "text": "تَرْهَقُهَا قَتَرَةٌ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    },
+    {
+      "id": 5800,
+      "surah": 80,
+      "verseNumber": 42,
+      "text": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "page": 585,
+      "juz": 30,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  ]
+}

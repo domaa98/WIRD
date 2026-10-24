@@ -1,0 +1,60 @@
+{
+  "number": 111,
+  "name": "سُورَةُ المَسَدِ",
+  "englishName": "Al-Masad",
+  "englishNameTranslation": "The Palm Fibre",
+  "numberOfAyahs": 5,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6217,
+      "surah": 111,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6218,
+      "surah": 111,
+      "verseNumber": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6219,
+      "surah": 111,
+      "verseNumber": 3,
+      "text": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6220,
+      "surah": 111,
+      "verseNumber": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6221,
+      "surah": 111,
+      "verseNumber": 5,
+      "text": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

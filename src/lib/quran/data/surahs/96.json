@@ -1,0 +1,200 @@
+{
+  "number": 96,
+  "name": "سُورَةُ العَلَقِ",
+  "englishName": "Al-Alaq",
+  "englishNameTranslation": "The Clot",
+  "numberOfAyahs": 19,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6107,
+      "surah": 96,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6108,
+      "surah": 96,
+      "verseNumber": 2,
+      "text": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6109,
+      "surah": 96,
+      "verseNumber": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6110,
+      "surah": 96,
+      "verseNumber": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6111,
+      "surah": 96,
+      "verseNumber": 5,
+      "text": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6112,
+      "surah": 96,
+      "verseNumber": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6113,
+      "surah": 96,
+      "verseNumber": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6114,
+      "surah": 96,
+      "verseNumber": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6115,
+      "surah": 96,
+      "verseNumber": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6116,
+      "surah": 96,
+      "verseNumber": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6117,
+      "surah": 96,
+      "verseNumber": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6118,
+      "surah": 96,
+      "verseNumber": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6119,
+      "surah": 96,
+      "verseNumber": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6120,
+      "surah": 96,
+      "verseNumber": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6121,
+      "surah": 96,
+      "verseNumber": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6122,
+      "surah": 96,
+      "verseNumber": 16,
+      "text": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6123,
+      "surah": 96,
+      "verseNumber": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6124,
+      "surah": 96,
+      "verseNumber": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "id": 6125,
+      "surah": 96,
+      "verseNumber": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "page": 597,
+      "juz": 30,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ]
+}

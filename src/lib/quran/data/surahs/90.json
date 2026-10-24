@@ -1,0 +1,210 @@
+{
+  "number": 90,
+  "name": "سُورَةُ البَلَدِ",
+  "englishName": "Al-Balad",
+  "englishNameTranslation": "The City",
+  "numberOfAyahs": 20,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6024,
+      "surah": 90,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6025,
+      "surah": 90,
+      "verseNumber": 2,
+      "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6026,
+      "surah": 90,
+      "verseNumber": 3,
+      "text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6027,
+      "surah": 90,
+      "verseNumber": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6028,
+      "surah": 90,
+      "verseNumber": 5,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6029,
+      "surah": 90,
+      "verseNumber": 6,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6030,
+      "surah": 90,
+      "verseNumber": 7,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6031,
+      "surah": 90,
+      "verseNumber": 8,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6032,
+      "surah": 90,
+      "verseNumber": 9,
+      "text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6033,
+      "surah": 90,
+      "verseNumber": 10,
+      "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6034,
+      "surah": 90,
+      "verseNumber": 11,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6035,
+      "surah": 90,
+      "verseNumber": 12,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6036,
+      "surah": 90,
+      "verseNumber": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6037,
+      "surah": 90,
+      "verseNumber": 14,
+      "text": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6038,
+      "surah": 90,
+      "verseNumber": 15,
+      "text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6039,
+      "surah": 90,
+      "verseNumber": 16,
+      "text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6040,
+      "surah": 90,
+      "verseNumber": 17,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6041,
+      "surah": 90,
+      "verseNumber": 18,
+      "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6042,
+      "surah": 90,
+      "verseNumber": 19,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6043,
+      "surah": 90,
+      "verseNumber": 20,
+      "text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+      "page": 594,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+}

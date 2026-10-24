@@ -1,0 +1,510 @@
+{
+  "number": 77,
+  "name": "سُورَةُ المُرۡسَلَاتِ",
+  "englishName": "Al-Mursalaat",
+  "englishNameTranslation": "The Emissaries",
+  "numberOfAyahs": 50,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 5623,
+      "surah": 77,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًۭا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5624,
+      "surah": 77,
+      "verseNumber": 2,
+      "text": "فَٱلْعَٰصِفَٰتِ عَصْفًۭا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5625,
+      "surah": 77,
+      "verseNumber": 3,
+      "text": "وَٱلنَّٰشِرَٰتِ نَشْرًۭا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5626,
+      "surah": 77,
+      "verseNumber": 4,
+      "text": "فَٱلْفَٰرِقَٰتِ فَرْقًۭا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5627,
+      "surah": 77,
+      "verseNumber": 5,
+      "text": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5628,
+      "surah": 77,
+      "verseNumber": 6,
+      "text": "عُذْرًا أَوْ نُذْرًا",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5629,
+      "surah": 77,
+      "verseNumber": 7,
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌۭ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5630,
+      "surah": 77,
+      "verseNumber": 8,
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5631,
+      "surah": 77,
+      "verseNumber": 9,
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5632,
+      "surah": 77,
+      "verseNumber": 10,
+      "text": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5633,
+      "surah": 77,
+      "verseNumber": 11,
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5634,
+      "surah": 77,
+      "verseNumber": 12,
+      "text": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5635,
+      "surah": 77,
+      "verseNumber": 13,
+      "text": "لِيَوْمِ ٱلْفَصْلِ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5636,
+      "surah": 77,
+      "verseNumber": 14,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5637,
+      "surah": 77,
+      "verseNumber": 15,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5638,
+      "surah": 77,
+      "verseNumber": 16,
+      "text": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5639,
+      "surah": 77,
+      "verseNumber": 17,
+      "text": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5640,
+      "surah": 77,
+      "verseNumber": 18,
+      "text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5641,
+      "surah": 77,
+      "verseNumber": 19,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 580,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5642,
+      "surah": 77,
+      "verseNumber": 20,
+      "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5643,
+      "surah": 77,
+      "verseNumber": 21,
+      "text": "فَجَعَلْنَٰهُ فِى قَرَارٍۢ مَّكِينٍ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5644,
+      "surah": 77,
+      "verseNumber": 22,
+      "text": "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5645,
+      "surah": 77,
+      "verseNumber": 23,
+      "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5646,
+      "surah": 77,
+      "verseNumber": 24,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5647,
+      "surah": 77,
+      "verseNumber": 25,
+      "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5648,
+      "surah": 77,
+      "verseNumber": 26,
+      "text": "أَحْيَآءًۭ وَأَمْوَٰتًۭا",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5649,
+      "surah": 77,
+      "verseNumber": 27,
+      "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍۢ وَأَسْقَيْنَٰكُم مَّآءًۭ فُرَاتًۭا",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5650,
+      "surah": 77,
+      "verseNumber": 28,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5651,
+      "surah": 77,
+      "verseNumber": 29,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5652,
+      "surah": 77,
+      "verseNumber": 30,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5653,
+      "surah": 77,
+      "verseNumber": 31,
+      "text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5654,
+      "surah": 77,
+      "verseNumber": 32,
+      "text": "إِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5655,
+      "surah": 77,
+      "verseNumber": 33,
+      "text": "كَأَنَّهُۥ جِمَٰلَتٌۭ صُفْرٌۭ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5656,
+      "surah": 77,
+      "verseNumber": 34,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5657,
+      "surah": 77,
+      "verseNumber": 35,
+      "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5658,
+      "surah": 77,
+      "verseNumber": 36,
+      "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5659,
+      "surah": 77,
+      "verseNumber": 37,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5660,
+      "surah": 77,
+      "verseNumber": 38,
+      "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5661,
+      "surah": 77,
+      "verseNumber": 39,
+      "text": "فَإِن كَانَ لَكُمْ كَيْدٌۭ فَكِيدُونِ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5662,
+      "surah": 77,
+      "verseNumber": 40,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5663,
+      "surah": 77,
+      "verseNumber": 41,
+      "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍۢ وَعُيُونٍۢ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5664,
+      "surah": 77,
+      "verseNumber": 42,
+      "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5665,
+      "surah": 77,
+      "verseNumber": 43,
+      "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5666,
+      "surah": 77,
+      "verseNumber": 44,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5667,
+      "surah": 77,
+      "verseNumber": 45,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5668,
+      "surah": 77,
+      "verseNumber": 46,
+      "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5669,
+      "surah": 77,
+      "verseNumber": 47,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5670,
+      "surah": 77,
+      "verseNumber": 48,
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5671,
+      "surah": 77,
+      "verseNumber": 49,
+      "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    },
+    {
+      "id": 5672,
+      "surah": 77,
+      "verseNumber": 50,
+      "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "page": 581,
+      "juz": 29,
+      "hizbQuarter": 232,
+      "sajda": false
+    }
+  ]
+}

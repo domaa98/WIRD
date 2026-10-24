@@ -1,0 +1,40 @@
+{
+  "number": 110,
+  "name": "سُورَةُ النَّصۡرِ",
+  "englishName": "An-Nasr",
+  "englishNameTranslation": "Divine Support",
+  "numberOfAyahs": 3,
+  "revelationType": "Medinan",
+  "verses": [
+    {
+      "id": 6214,
+      "surah": 110,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6215,
+      "surah": 110,
+      "verseNumber": 2,
+      "text": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6216,
+      "surah": 110,
+      "verseNumber": 3,
+      "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "page": 603,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

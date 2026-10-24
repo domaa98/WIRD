@@ -1,0 +1,40 @@
+{
+  "number": 103,
+  "name": "سُورَةُ العَصۡرِ",
+  "englishName": "Al-Asr",
+  "englishNameTranslation": "The Declining Day, Epoch",
+  "numberOfAyahs": 3,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6177,
+      "surah": 103,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "page": 601,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6178,
+      "surah": 103,
+      "verseNumber": 2,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "page": 601,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "id": 6179,
+      "surah": 103,
+      "verseNumber": 3,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "page": 601,
+      "juz": 30,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

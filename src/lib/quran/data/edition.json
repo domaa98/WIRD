@@ -1,0 +1,15 @@
+{
+  "identifier": "quran-uthmani",
+  "name": "القرآن الكريم برسم العثماني",
+  "englishName": "Uthmani Script (Medina Mushaf)",
+  "format": "text",
+  "type": "quran",
+  "direction": "rtl",
+  "convention": "Kufan (6,236 verses)",
+  "provenance": "Tanzil Project (tanzil.net) - Verified Scholarly Authentic Quran Text",
+  "license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+  "totalSurahs": 114,
+  "totalVerses": 6236,
+  "totalPages": 604,
+  "importedAt": "2026-10-24T14:41:05.271Z"
+}

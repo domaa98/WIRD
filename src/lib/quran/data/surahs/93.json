@@ -1,0 +1,120 @@
+{
+  "number": 93,
+  "name": "سُورَةُ الضُّحَىٰ",
+  "englishName": "Ad-Dhuhaa",
+  "englishNameTranslation": "The Morning Hours",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "verses": [
+    {
+      "id": 6080,
+      "surah": 93,
+      "verseNumber": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6081,
+      "surah": 93,
+      "verseNumber": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6082,
+      "surah": 93,
+      "verseNumber": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6083,
+      "surah": 93,
+      "verseNumber": 4,
+      "text": "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6084,
+      "surah": 93,
+      "verseNumber": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6085,
+      "surah": 93,
+      "verseNumber": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6086,
+      "surah": 93,
+      "verseNumber": 7,
+      "text": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6087,
+      "surah": 93,
+      "verseNumber": 8,
+      "text": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6088,
+      "surah": 93,
+      "verseNumber": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6089,
+      "surah": 93,
+      "verseNumber": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "id": 6090,
+      "surah": 93,
+      "verseNumber": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "page": 596,
+      "juz": 30,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+}
